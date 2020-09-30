@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "468200",
+      "name": "shouye ",
+      "font_class": "shouye",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "683159",
+      "name": "wo-de-red",
+      "font_class": "mine-red",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "1010133",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9278043",
+      "name": "采购",
+      "font_class": "icon_caigou",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "10452208",
+      "name": "jia",
+      "font_class": "jia",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    }
+  ]
+}
